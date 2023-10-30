@@ -1,0 +1,7 @@
+{
+  "autoload": {
+    "psr-4": {
+      "MyLibrary\\": "D:\\GitDolgok\\WebProgramozas\\HF4_2"
+    }
+  }
+}
